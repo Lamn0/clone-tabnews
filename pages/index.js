@@ -1,5 +1,5 @@
 function Home(){
-	return <h1>hello modafokas</h1>
+	return <h1>Bota minha janta.</h1>
 
 
 };
